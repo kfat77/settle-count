@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, cite the repository. The antifouling field trial that motivated it is Hao et al. (2022), DOI 10.1016/j.ibiod.2022.105400; this software is not part of that work."
+title: settle-count
+version: 0.1.0
+date-released: 2026-11-05
+license: MIT
+authors:
+  - name: "settle-count contributors"
+abstract: >-
+  Image quantification for marine biofouling settlement plates: coverage
+  fraction and heatmap, clump-splitting individual counts based on distance
+  transform and seeded watershed, and coverage-time curves. Distributed with a
+  deterministic synthetic demo; it ships no experimental data.
+keywords:
+  - marine biofouling
+  - settlement plate
+  - image analysis
+  - watershed
+  - coverage
