@@ -9,7 +9,7 @@ description = "Quantify marine biofouling on settlement plates: coverage fractio
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "settle-count contributors" }]
+authors = [{ name = "kfat77" }]
 keywords = [
     "marine biofouling",
     "settlement plate",
