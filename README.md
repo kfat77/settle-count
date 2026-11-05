@@ -1,5 +1,7 @@
 # settle-count
 
+[![tests](https://github.com/kfat77/settle-count/actions/workflows/tests.yml/badge.svg)](https://github.com/kfat77/settle-count/actions/workflows/tests.yml)
+
 A small, dependency-light image-quantification tool for marine biofouling
 settlement plates. From ordinary RGB photographs it answers three questions:
 
