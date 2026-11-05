@@ -5,7 +5,8 @@ version: 0.1.0
 date-released: 2026-11-05
 license: MIT
 authors:
-  - name: "settle-count contributors"
+  - name: "kfat77"
+  website: "https://github.com/kfat77/settle-count"
 abstract: >-
   Image quantification for marine biofouling settlement plates: coverage
   fraction and heatmap, clump-splitting individual counts based on distance
